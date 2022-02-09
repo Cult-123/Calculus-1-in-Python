@@ -1,5 +1,5 @@
 # Calculus-1-in-Python
-This repo contains basics of Calculus1 which are as follows:
+This repo contains 1st basics of Calculus1 which are as follows:
 
 **1.** Idea of Limits & Slope Derrivatives of functions (1st order & 2nd order).<br>
 **2.** Idea of Area Antiderivative of functions (Area Under the 2D function's graph curve).<br>
